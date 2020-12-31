@@ -8,4 +8,4 @@ Points covered:
 3. Prediction
 4. Simple UI for end user to get price of concerned car
 
-The code is then deployed and hosted on Heroku.
+The code is then deployed and hosted on Heroku - https://carsellpricepred.herokuapp.com/
